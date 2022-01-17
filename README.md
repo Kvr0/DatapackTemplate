@@ -1,2 +1,1 @@
 # DatapackTemplate
-McDatapack Template
